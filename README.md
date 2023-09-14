@@ -28,19 +28,17 @@ I have also started a new journey with the School of Code. I delved into the piv
 
 Day 3:
 
-Exploring agile
-
-Today, I learned about Agile and its methodology, which emphasises flexibility and collaboration in project management. Additionally, I had my first experience with Git and GitHub, it was challenging at first, however I quickly realised the significance of GitHub as a workspace for code collaboration and version control. I also learned how to use essential Git commands like 'git add .' to stage changes and 'git commit -m' to save changes with a descriptive message. Git and GitHub play a crucial role in software development by enabling efficient code management and teamwork, and mastering these tools is essential for effective collaboration. 
+Today, I learnt about Agile and its methodology, which emphasises flexibility and collaboration in project management. Additionally, I had my first experience with Git and GitHub, it was challenging at first, however I quickly realised the significance of GitHub as a workspace for code collaboration and version control. I also learned how to use essential Git commands like 'git add .' to stage changes and 'git commit -m' to save changes with a descriptive message. Git and GitHub play a crucial role in software development by enabling efficient code management and teamwork, and mastering these tools is essential for effective collaboration. 
 
 Day 4: 
 
-Today, I regrasped my knowledge of HTML and CSS by thoroughly reading through the Intermediate HTML and CSS section of The Odin Project. This comprehensive resource provided valuable insights into these fundamental web development technologies.
+I regrasped my knowledge of HTML and CSS by thoroughly reading through the Intermediate HTML and CSS section of The Odin Project. This comprehensive resource provided valuable insights into these fundamental web development technologies.
 
 In addition, during my School of Code session, I dived into the fundamentals of JavaScript and its importance in web development. Within my team, we explored variables and data types, including the use of 'let', ‘var’ 'const' for variable declaration. Furthermore, we delved into coding logical operators to evaluate and present true or false statements. This hands-on practice with JavaScript laid the groundwork for understanding its role in creating dynamic and interactive web applications."
 
 Day 5: 
 
-Today I practised while loops and for loops in Java Script. These loop structures are vital because they allow us to automate repetitive tasks and efficiently process data.
+I practised while loops and for loops in Java Script. These loop structures are vital because they allow us to automate repetitive tasks and efficiently process data.
 
 By practicing coding exercises involving while and for loops, I gained a deeper understanding of how to use them to iterate through codes. These skills are crucial for writing efficient code. 
 
